@@ -1,0 +1,33 @@
+.web{
+    background-color: whitesmoke;
+    margin: auto;
+    width:300px;
+    border-radius: 15px;
+    border-top:3px solid  ;
+    border-right: 10px solid;
+    border-bottom: 10px solid;
+    border-left: 3px solid;
+    padding: 15px;
+}
+
+body{
+    background-color: goldenrod;  
+}
+button{
+    color:black;
+    background-color:gold;
+    padding:5px;
+    border:none;
+    border-radius: 15%;
+}
+.indigo{width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+.voilet{
+    display: flex;
+    gap:5px;
+}
+.hipix{
+    border-radius: 15px;
+}
